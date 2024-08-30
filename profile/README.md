@@ -3,6 +3,7 @@
 > 수업 소스코드는 수업이 진행되면서 여기에 올려드리겠습니다.
 
 ## Language
+### [04_Java](https://github.com/20240807-ezen/04_java)
 ### [03-01_JavaScript(core)](https://github.com/20240807-ezen/03-01_javascript_core)
 ### [03-02_JavaScript(web)](https://github.com/20240807-ezen/03-02_javascript_web)
 ### [03-03_JavaScript(es6)](https://github.com/20240807-ezen/03-03_javascript_es6)
