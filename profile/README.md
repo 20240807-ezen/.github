@@ -17,3 +17,12 @@
 
 ## API
 ### [06_JDBC](https://github.com/20240807-ezen/06_jdbc)
+
+## 담당 강사 연락처
+```
+{
+    "name": "남효정",
+    "phone": "010-7651-4124",
+    "email": "koala.ohgiraffers@gmail.com"
+}
+```
