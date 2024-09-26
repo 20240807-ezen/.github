@@ -14,3 +14,6 @@
 
 ## DBMS
 ### [05_MySQL](https://github.com/20240807-ezen/05_mysql)
+
+## API
+### [06_JDBC](https://github.com/20240807-ezen/06_jdbc)
