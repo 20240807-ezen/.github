@@ -18,6 +18,9 @@
 ## API
 ### [06_JDBC](https://github.com/20240807-ezen/06_jdbc)
 
+## Persistence Framework
+### [07_MyBatis](https://github.com/20240807-ezen/07_mybatis)
+
 ## 담당 강사 연락처
 ```
 {
